@@ -4,7 +4,7 @@ This repository contains a collection of machine learning projects. Each project
 
 ## Projects
 
-**Customer Churn Prediction**
+**Leptospirosis Prediction Model**
 
 
 ## Installation
