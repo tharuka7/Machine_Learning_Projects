@@ -4,7 +4,7 @@ This repository contains a collection of machine learning projects. Each project
 
 ## Projects
 
-**1.Leptospirosis Prediction Model**
+**1.Leptospirosis Prediction Model** /n
 **2.Loan Eligibility status Prediction**
 
 
